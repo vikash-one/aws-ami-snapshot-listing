@@ -1,0 +1,11 @@
+# Ignore Excel files
+*.xlsx
+
+# Ignore CSV files
+*.csv
+
+# Ignore log files
+*.log
+
+# Ignore Markdown files
+#*.md
